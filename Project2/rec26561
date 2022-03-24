@@ -1,0 +1,65 @@
+Project2:
+total 4
+drwxr-xr-x. 3 myid   25 Jul  2 18:42 bin
+-rw-r--r--. 1 myid 1408 Jul  3 05:20 README.txt
+-rw-r--r--. 1 myid    0 Jul  3 05:22 rec26561
+drwxr-xr-x. 3 myid   25 Jul  2 18:51 src
+
+Project2/bin:
+total 0
+drwxr-xr-x. 3 myid 17 Jul  2 18:42 edu
+
+Project2/bin/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul  2 18:42 uga
+
+Project2/bin/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 30 Jul  2 18:42 cs1302
+
+Project2/bin/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 276 Jul  3 01:18 vehicles
+
+Project2/bin/edu/uga/cs1302/vehicles:
+total 44
+-rw-r--r--. 1 myid 2490 Jul  3 04:07 Airplane.class
+-rw-r--r--. 1 myid 2040 Jul  3 03:41 Automobile.class
+-rw-r--r--. 1 myid 4834 Jul  3 05:03 Driver.class
+-rw-r--r--. 1 myid 2720 Jul  3 04:35 FliteBoard.class
+-rw-r--r--. 1 myid  178 Jul  2 21:40 Floatable.class
+-rw-r--r--. 1 myid  226 Jul  2 18:58 Flyable.class
+-rw-r--r--. 1 myid 2718 Jul  3 04:34 MagicSchoolBus.class
+-rw-r--r--. 1 myid 2308 Jul  3 03:15 Ship.class
+-rw-r--r--. 1 myid  238 Jul  2 20:17 Transporter.class
+-rw-r--r--. 1 myid 1841 Jul  3 05:03 Vehicle.class
+
+Project2/src:
+total 0
+drwxr-xr-x. 3 myid 25 Jul  2 18:49 edu
+
+Project2/src/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul  2 18:50 uga
+
+Project2/src/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 30 Jul  2 18:51 cs1302
+
+Project2/src/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 266 Jul  3 05:03 vehicles
+
+Project2/src/edu/uga/cs1302/vehicles:
+total 44
+-rw-r--r--. 1 myid 2034 Jul  3 04:07 Airplane.java
+-rw-r--r--. 1 myid 1189 Jul  3 03:40 Automobile.java
+-rw-r--r--. 1 myid 5525 Jul  3 05:00 Driver.java
+-rw-r--r--. 1 myid 2499 Jul  3 04:33 FliteBoard.java
+-rw-r--r--. 1 myid  175 Jul  2 21:39 Floatable.java
+-rw-r--r--. 1 myid  297 Jun 30 21:05 Flyable.java
+-rw-r--r--. 1 myid 2416 Jul  3 04:34 MagicSchoolBus.java
+-rw-r--r--. 1 myid 1538 Jul  3 03:15 Ship.java
+-rw-r--r--. 1 myid  299 Jul  2 20:13 Transporter.java
+-rw-r--r--. 1 myid 2548 Jul  3 05:03 Vehicle.java
+/home/myid/sao91172/cs1302/Project2:/home/myid/csci-1302a
