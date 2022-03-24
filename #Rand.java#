@@ -1,0 +1,16 @@
+import java.util.ThreadLocalRandom;
+
+public class Rand {
+
+    public static void main (String [] args) {
+    String[][] options = 	{
+								{"Asia","South America","North America"},
+								{"South America","Africa","Asia"},
+								{"Europe","Africa","Asia"},
+								{"Kenya","United States","Canada"},
+								{"Chile","Columbia","Canada"},
+								{"China","United Kingdom","France"}
+							};
+    int randomValue = ThreadLocalRandom.current().nextInt(options.length);
+    }//main
+}//Rand 
