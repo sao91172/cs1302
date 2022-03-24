@@ -1,0 +1,127 @@
+Project5:
+total 60
+-rw-r--r--. 1 myid 49086 Aug  1 21:36 commons-csv-1.8.jar
+-rw-r--r--. 1 myid  3385 Aug  1 21:36 country_continent.csv
+-rw-r--r--. 1 myid  2811 Aug  1 19:46 pom.xml
+-rw-r--r--. 1 myid  1167 Aug  4 15:11 README.txt
+-rw-r--r--. 1 myid     0 Aug  5 06:06 rec937
+drwxr-xr-x. 4 myid    42 Jul 27 12:54 src
+drwxr-xr-x. 5 myid    82 Aug  5 06:04 target
+
+Project5/src:
+total 0
+drwxr-xr-x. 3 myid 26 Jul 27 12:54 main
+drwxr-xr-x. 3 myid 26 Jul 27 12:54 test
+
+Project5/src/main:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 27 12:54 java
+
+Project5/src/main/java:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 27 12:54 edu
+
+Project5/src/main/java/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 27 12:54 uga
+
+Project5/src/main/java/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 26 Jul 27 12:54 cs1302
+
+Project5/src/main/java/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 214 Aug  5 06:03 quiz
+
+Project5/src/main/java/edu/uga/cs1302/quiz:
+total 36
+-rw-r--r--. 1 myid  723 Aug  2 23:44 Country.java
+-rw-r--r--. 1 myid 3870 Aug  1 20:03 Dawgs.java
+-rw-r--r--. 1 myid 2655 Aug  4 06:36 GeograhyQuiz.java
+-rw-r--r--. 1 myid 2087 Aug  3 17:56 Help.java
+-rw-r--r--. 1 myid 1367 Aug  3 17:56 PastResult.java
+-rw-r--r--. 1 myid 1865 Aug  5 02:23 QuestionCollection.java
+-rw-r--r--. 1 myid 1807 Aug  4 06:41 Question.java
+-rw-r--r--. 1 myid 6506 Aug  5 06:03 Quiz.java
+
+Project5/src/test:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 27 12:54 java
+
+Project5/src/test/java:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 27 12:54 edu
+
+Project5/src/test/java/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 27 12:54 uga
+
+Project5/src/test/java/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 26 Jul 27 12:54 cs1302
+
+Project5/src/test/java/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 34 Jul 27 12:54 quiz
+
+Project5/src/test/java/edu/uga/cs1302/quiz:
+total 4
+-rw-r--r--. 1 myid 291 Jul 27 12:54 AppTest.java
+
+Project5/target:
+total 0
+drwxr-xr-x. 3 myid 25 Aug  5 06:04 classes
+drwxr-xr-x. 3 myid 33 Aug  5 06:04 generated-sources
+drwxr-xr-x. 3 myid 43 Aug  5 06:04 maven-status
+
+Project5/target/classes:
+total 0
+drwxr-xr-x. 3 myid 25 Aug  5 06:04 edu
+
+Project5/target/classes/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Aug  5 06:04 uga
+
+Project5/target/classes/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 26 Aug  5 06:04 cs1302
+
+Project5/target/classes/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 186 Aug  5 06:04 quiz
+
+Project5/target/classes/edu/uga/cs1302/quiz:
+total 44
+-rw-r--r--. 1 myid 1041 Aug  5 06:04 Country.class
+-rw-r--r--. 1 myid 4388 Aug  5 06:04 Dawgs.class
+-rw-r--r--. 1 myid 4115 Aug  5 06:04 GeograhyQuiz.class
+-rw-r--r--. 1 myid 3299 Aug  5 06:04 Help.class
+-rw-r--r--. 1 myid 2420 Aug  5 06:04 PastResult.class
+-rw-r--r--. 1 myid 1652 Aug  5 06:04 Question.class
+-rw-r--r--. 1 myid 2636 Aug  5 06:04 QuestionCollection.class
+-rw-r--r--. 1 myid 6786 Aug  5 06:04 Quiz.class
+
+Project5/target/generated-sources:
+total 0
+drwxr-xr-x. 2 myid 6 Aug  5 06:04 annotations
+
+Project5/target/generated-sources/annotations:
+total 0
+
+Project5/target/maven-status:
+total 0
+drwxr-xr-x. 3 myid 29 Aug  5 06:04 maven-compiler-plugin
+
+Project5/target/maven-status/maven-compiler-plugin:
+total 0
+drwxr-xr-x. 3 myid 37 Aug  5 06:04 compile
+
+Project5/target/maven-status/maven-compiler-plugin/compile:
+total 0
+drwxr-xr-x. 2 myid 64 Aug  5 06:04 default-compile
+
+Project5/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r--. 1 myid 284 Aug  5 06:04 createdFiles.lst
+-rw-r--r--. 1 myid 676 Aug  5 06:04 inputFiles.lst
+/home/myid/sao91172/cs1302/Project5:/home/myid/csci-1302a
