@@ -1,0 +1,16 @@
+/Project1:
+total 4
+drwxr-xr-x. 2 myid  32 Jun 19 16:13 bin
+-rw-r--r--. 1 myid 433 Jun 19 19:08 rec16163
+-rw-r--r--. 1 myid   0 Jun 20 13:26 rec4386
+drwxr-xr-x. 2 myid  52 Jun 20 12:56 src
+
+Project1/bin:
+total 4
+-rw-r--r--. 1 myid 981 Jun 20 13:24 User.class
+
+Project1/src:
+total 8
+-rw-r--r--. 1 myid 949 Jun 18 17:50 ident.jar
+-rw-r--r--. 1 myid 448 Jun 19 16:25 User.java
+/home/myid/sao91172/cs1302/Project1:/home/myid/csci-1302
