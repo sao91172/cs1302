@@ -1,0 +1,176 @@
+Project3:
+total 48
+drwxr-xr-x. 3 myid    17 Jul 16 19:08 bin
+drwxr-xr-x. 5 myid  4096 Jul 17 03:53 doc
+-rw-r--r--. 1 myid  1388 Jul 17 03:51 README.txt
+-rw-r--r--. 1 myid     0 Jul 17 05:11 rec10129
+drwxr-xr-x. 3 myid   112 Jul 17 03:43 src
+-rw-r--r--. 1 myid 38322 Jul 17 05:06 Testplan.pdf
+
+Project3/bin:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 16 19:08 edu
+
+Project3/bin/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 16 19:08 uga
+
+Project3/bin/edu/uga:
+total 0
+drwxr-xr-x. 4 myid 45 Jul 16 22:29 cs1302
+
+Project3/bin/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid  50 Jul 16 22:29 test
+drwxr-xr-x. 2 myid 147 Jul 16 20:50 txtbuff
+
+Project3/bin/edu/uga/cs1302/test:
+total 4
+-rw-r--r--. 1 myid 2495 Jul 17 05:09 EditableTextLineTester.class
+
+Project3/bin/edu/uga/cs1302/txtbuff:
+total 16
+-rw-r--r--. 1 myid  342 Jul 17 05:09 Editable.class
+-rw-r--r--. 1 myid 1660 Jul 17 05:09 EditableTextLine.class
+-rw-r--r--. 1 myid 2218 Jul 17 05:09 TextLine.class
+-rw-r--r--. 1 myid  887 Jul 17 05:09 TextLineIndexOutOfBoundsException.class
+
+Project3/doc:
+total 168
+-rw-r--r--. 1 myid  1580 Jul 17 05:11 allclasses.html
+-rw-r--r--. 1 myid  6599 Jul 17 05:11 allclasses-index.html
+-rw-r--r--. 1 myid  4816 Jul 17 05:11 allpackages-index.html
+-rw-r--r--. 1 myid  5398 Jul 17 05:11 constant-values.html
+-rw-r--r--. 1 myid  4298 Jul 17 05:11 deprecated-list.html
+drwxr-xr-x. 3 myid    25 Jul 17 03:53 edu
+-rw-r--r--. 1 myid    23 Jul 17 05:11 element-list
+-rw-r--r--. 1 myid  9264 Jul 17 05:11 help-doc.html
+-rw-r--r--. 1 myid 16794 Jul 17 05:11 index-all.html
+-rw-r--r--. 1 myid   852 Jul 17 05:11 index.html
+drwxr-xr-x. 6 myid  4096 Jul 17 03:53 jquery
+-rw-r--r--. 1 myid  2290 Jul 17 05:11 member-search-index.js
+-rw-r--r--. 1 myid   478 Jul 17 05:11 member-search-index.zip
+-rw-r--r--. 1 myid  5837 Jul 17 05:11 overview-tree.html
+-rw-r--r--. 1 myid   105 Jul 17 05:11 package-search-index.js
+-rw-r--r--. 1 myid   238 Jul 17 05:11 package-search-index.zip
+drwxr-xr-x. 2 myid    36 Jul 17 03:53 resources
+-rw-r--r--. 1 myid  5043 Jul 17 05:11 script.js
+-rw-r--r--. 1 myid 12302 Jul 17 05:11 search.js
+-rw-r--r--. 1 myid  4883 Jul 17 05:11 serialized-form.html
+-rw-r--r--. 1 myid 22271 Jul 17 05:11 stylesheet.css
+-rw-r--r--. 1 myid   286 Jul 17 05:11 type-search-index.js
+-rw-r--r--. 1 myid   284 Jul 17 05:11 type-search-index.zip
+
+Project3/doc/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 17 03:53 uga
+
+Project3/doc/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 29 Jul 17 03:53 cs1302
+
+Project3/doc/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 204 Jul 17 03:53 txtbuff
+
+Project3/doc/edu/uga/cs1302/txtbuff:
+total 80
+-rw-r--r--. 1 myid 11658 Jul 17 05:11 Editable.html
+-rw-r--r--. 1 myid 16985 Jul 17 05:11 EditableTextLine.html
+-rw-r--r--. 1 myid  6465 Jul 17 05:11 package-summary.html
+-rw-r--r--. 1 myid  5877 Jul 17 05:11 package-tree.html
+-rw-r--r--. 1 myid 18605 Jul 17 05:11 TextLine.html
+-rw-r--r--. 1 myid 11105 Jul 17 05:11 TextLineIndexOutOfBoundsException.html
+
+Project3/doc/jquery:
+total 440
+drwxr-xr-x. 3 myid     28 Jul 17 03:53 external
+drwxr-xr-x. 2 myid   4096 Jul 17 03:53 images
+-rw-r--r--. 1 myid 287630 Jul 17 05:11 jquery-3.5.1.js
+-rw-r--r--. 1 myid  20275 Jul 17 05:11 jquery-ui.css
+-rw-r--r--. 1 myid  71563 Jul 17 05:11 jquery-ui.js
+-rw-r--r--. 1 myid  17416 Jul 17 05:11 jquery-ui.min.css
+-rw-r--r--. 1 myid  32162 Jul 17 05:11 jquery-ui.min.js
+-rw-r--r--. 1 myid   2555 Jul 17 05:11 jquery-ui.structure.css
+-rw-r--r--. 1 myid   1787 Jul 17 05:11 jquery-ui.structure.min.css
+drwxr-xr-x. 3 myid     26 Jul 17 03:53 jszip
+drwxr-xr-x. 3 myid     26 Jul 17 03:53 jszip-utils
+
+Project3/doc/jquery/external:
+total 0
+drwxr-xr-x. 2 myid 31 Jul 17 03:53 jquery
+
+Project3/doc/jquery/external/jquery:
+total 276
+-rw-r--r--. 1 myid 280363 Jul 17 05:11 jquery.js
+
+Project3/doc/jquery/images:
+total 64
+-rw-r--r--. 1 myid  335 Jul 17 05:11 ui-bg_glass_55_fbf9ee_1x400.png
+-rw-r--r--. 1 myid  262 Jul 17 05:11 ui-bg_glass_65_dadada_1x400.png
+-rw-r--r--. 1 myid  262 Jul 17 05:11 ui-bg_glass_75_dadada_1x400.png
+-rw-r--r--. 1 myid  262 Jul 17 05:11 ui-bg_glass_75_e6e6e6_1x400.png
+-rw-r--r--. 1 myid  332 Jul 17 05:11 ui-bg_glass_95_fef1ec_1x400.png
+-rw-r--r--. 1 myid  280 Jul 17 05:11 ui-bg_highlight-soft_75_cccccc_1x100.png
+-rw-r--r--. 1 myid 6922 Jul 17 05:11 ui-icons_222222_256x240.png
+-rw-r--r--. 1 myid 4549 Jul 17 05:11 ui-icons_2e83ff_256x240.png
+-rw-r--r--. 1 myid 6992 Jul 17 05:11 ui-icons_454545_256x240.png
+-rw-r--r--. 1 myid 6999 Jul 17 05:11 ui-icons_888888_256x240.png
+-rw-r--r--. 1 myid 4549 Jul 17 05:11 ui-icons_cd0a0a_256x240.png
+
+Project3/doc/jquery/jszip:
+total 0
+drwxr-xr-x. 2 myid 54 Jul 17 03:53 dist
+
+Project3/doc/jquery/jszip/dist:
+total 456
+-rw-r--r--. 1 myid 366227 Jul 17 05:11 jszip.js
+-rw-r--r--. 1 myid  95827 Jul 17 05:11 jszip.min.js
+
+Project3/doc/jquery/jszip-utils:
+total 0
+drwxr-xr-x. 2 myid 128 Jul 17 03:53 dist
+
+Project3/doc/jquery/jszip-utils/dist:
+total 20
+-rw-r--r--. 1 myid 2444 Jul 17 05:11 jszip-utils-ie.js
+-rw-r--r--. 1 myid 1610 Jul 17 05:11 jszip-utils-ie.min.js
+-rw-r--r--. 1 myid 4483 Jul 17 05:11 jszip-utils.js
+-rw-r--r--. 1 myid 1777 Jul 17 05:11 jszip-utils.min.js
+
+Project3/doc/resources:
+total 8
+-rw-r--r--. 1 myid 499 Jul 17 05:11 glass.png
+-rw-r--r--. 1 myid 394 Jul 17 05:11 x.png
+
+Project3/src:
+total 796
+drwxr-xr-x. 3 myid     25 Jul 17 03:39 edu
+-rw-r--r--. 1 myid  45024 Jul 16 02:41 hamcrest-core-1.3.jar
+-rw-r--r--. 1 myid 384581 Jul 16 02:11 junit-4.13.2.jar
+-rw-r--r--. 1 myid 381765 Jul 16 02:10 junit-4.13.jar
+
+Project3/src/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 17 03:40 uga
+
+Project3/src/edu/uga:
+total 0
+drwxr-xr-x. 4 myid 45 Jul 17 03:40 cs1302
+
+Project3/src/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid  49 Jul 17 03:43 test
+drwxr-xr-x. 2 myid 143 Jul 17 04:26 txtbuff
+
+Project3/src/edu/uga/cs1302/test:
+total 4
+-rw-r--r--. 1 myid 3865 Jul 17 03:32 EditableTextLineTester.java
+
+Project3/src/edu/uga/cs1302/txtbuff:
+total 24
+-rw-r--r--. 1 myid 1676 Jul 17 04:17 Editable.java
+-rw-r--r--. 1 myid 5008 Jul 17 04:16 EditableTextLine.java
+-rw-r--r--. 1 myid 1483 Jul 17 04:25 TextLineIndexOutOfBoundsException.java
+-rw-r--r--. 1 myid 6394 Jul 17 04:26 TextLine.java
+/home/myid/sao91172/cs1302/Project3:/home/myid/csci-1302a
