@@ -1,0 +1,47 @@
+@options
+@packages
+-classpath
+'/home/myid/sao91172/cs1302/Project4/target/classes:/home/myid/sao91172/cs1302/Project4/target/test-classes:/home/myid/sao91172/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar:/home/myid/sao91172/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar'
+-encoding
+'UTF-8'
+-public
+-source
+'1.8'
+-sourcepath
+'/home/myid/sao91172/cs1302/Project4/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/myid/sao91172/cs1302/Project4/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Project4 1.0-SNAPSHOT Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/myid/sao91172/cs1302/Project4/target/javadoc-bundle-options'
+-nohelp
+-use
+-version
+-windowtitle
+'Project4 1.0-SNAPSHOT Test API'
+edu.uga.cs1302.list
+/home/myid/sao91172/cs1302/Project4/target/classes = 1628201954000
+/home/myid/sao91172/cs1302/Project4/target/test-classes = 1628201959000
+/home/myid/sao91172/.m2/repository/junit/junit/4.13.2/junit-4.13.2.jar = 1626996862000
+/home/myid/sao91172/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar = 1626835207000
+/home/myid/sao91172/cs1302/Project4/src/test/java = 1626835389000
+/home/myid/sao91172/cs1302/Project4/target/site/testapidocs/package-list = 1628202180000
+/home/myid/sao91172/cs1302/Project4/target/site/testapidocs/constant-values.html = 1628202180000
+/home/myid/sao91172/cs1302/Project4/target/site/testapidocs/overview-tree.html = 1628202180000
+/home/myid/sao91172/cs1302/Project4/target/site/testapidocs/index-all.html = 1628202180000
+/home/myid/sao91172/cs1302/Project4/target/site/testapidocs/deprecated-list.html = 1628202180000
+/home/myid/sao91172/cs1302/Project4/target/site/testapidocs/allclasses-frame.html = 1628202180000
+/home/myid/sao91172/cs1302/Project4/target/site/testapidocs/allclasses-noframe.html = 1628202180000
+/home/myid/sao91172/cs1302/Project4/target/site/testapidocs/index.html = 1628202180000
+/home/myid/sao91172/cs1302/Project4/target/site/testapidocs/stylesheet.css = 1628202180000
+/home/myid/sao91172/cs1302/Project4/target/site/testapidocs/script.js = 1628202180000

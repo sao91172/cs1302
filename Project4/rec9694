@@ -1,0 +1,164 @@
+Project4:
+total 40
+-rw-r--r--. 1 myid  3354 Jul 20 23:34 pom.xml
+-rw-r--r--. 1 myid  1033 Jul 25 22:57 README.txt
+-rw-r--r--. 1 myid 15835 Jul 25 22:52 rec12564
+-rw-r--r--. 1 myid 15889 Jul 25 22:57 rec13442
+-rw-r--r--. 1 myid     0 Aug  5 18:19 rec9694
+drwxr-xr-x. 4 myid    42 Jul 20 22:43 src
+drwxr-xr-x. 8 myid   168 Aug  5 18:19 target
+
+Project4/src:
+total 0
+drwxr-xr-x. 3 myid 26 Jul 20 22:43 main
+drwxr-xr-x. 3 myid 18 Jul 20 22:43 test
+
+Project4/src/main:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 20 22:43 java
+
+Project4/src/main/java:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 20 22:43 edu
+
+Project4/src/main/java/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 20 22:43 uga
+
+Project4/src/main/java/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 26 Jul 20 22:43 cs1302
+
+Project4/src/main/java/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 90 Aug  5 13:42 list
+
+Project4/src/main/java/edu/uga/cs1302/list:
+total 24
+-rw-r--r--. 1 myid   182 Jul 20 22:43 App.java
+-rw-r--r--. 1 myid 12762 Aug  5 13:42 SimpleLinkedList.java
+-rw-r--r--. 1 myid  2786 Jul 22 19:50 SimpleList.java
+
+Project4/src/test:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 20 22:43 java
+
+Project4/src/test/java:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 20 22:43 edu
+
+Project4/src/test/java/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 20 22:43 uga
+
+Project4/src/test/java/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 26 Jul 20 22:43 cs1302
+
+Project4/src/test/java/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 39 Aug  5 03:33 list
+
+Project4/src/test/java/edu/uga/cs1302/list:
+total 8
+-rw-r--r--. 1 myid 4358 Aug  5 03:33 SimpleLinkedListTest.java
+
+Project4/target:
+total 0
+drwxr-xr-x. 3 myid  17 Aug  5 18:19 classes
+drwxr-xr-x. 3 myid  25 Aug  5 18:19 generated-sources
+drwxr-xr-x. 3 myid  30 Aug  5 18:19 generated-test-sources
+drwxr-xr-x. 3 myid  43 Aug  5 18:19 maven-status
+drwxr-xr-x. 2 myid 127 Aug  5 18:19 surefire-reports
+drwxr-xr-x. 3 myid  25 Aug  5 18:19 test-classes
+
+Project4/target/classes:
+total 0
+drwxr-xr-x. 3 myid 25 Aug  5 18:19 edu
+
+Project4/target/classes/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Aug  5 18:19 uga
+
+Project4/target/classes/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 26 Aug  5 18:19 cs1302
+
+Project4/target/classes/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 191 Aug  5 18:19 list
+
+Project4/target/classes/edu/uga/cs1302/list:
+total 24
+-rw-r--r--. 1 myid  553 Aug  5 18:19 App.class
+-rw-r--r--. 1 myid 5239 Aug  5 18:19 SimpleLinkedList.class
+-rw-r--r--. 1 myid 1000 Aug  5 18:19 SimpleLinkedList$Node.class
+-rw-r--r--. 1 myid 3428 Aug  5 18:19 SimpleLinkedList$SimpleLinkedListIterator.class
+-rw-r--r--. 1 myid  570 Aug  5 18:19 SimpleList.class
+
+Project4/target/generated-sources:
+total 0
+drwxr-xr-x. 2 myid 10 Aug  5 18:19 annotations
+
+Project4/target/generated-sources/annotations:
+total 0
+
+Project4/target/generated-test-sources:
+total 0
+drwxr-xr-x. 2 myid 6 Aug  5 18:19 test-annotations
+
+Project4/target/generated-test-sources/test-annotations:
+total 0
+
+Project4/target/maven-status:
+total 0
+drwxr-xr-x. 4 myid 52 Aug  5 18:19 maven-compiler-plugin
+
+Project4/target/maven-status/maven-compiler-plugin:
+total 0
+drwxr-xr-x. 3 myid 37 Aug  5 18:19 compile
+drwxr-xr-x. 3 myid 41 Aug  5 18:19 testCompile
+
+Project4/target/maven-status/maven-compiler-plugin/compile:
+total 0
+drwxr-xr-x. 2 myid 52 Aug  5 18:19 default-compile
+
+Project4/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r--. 1 myid 226 Aug  5 18:19 createdFiles.lst
+-rw-r--r--. 1 myid 257 Aug  5 18:19 inputFiles.lst
+
+Project4/target/maven-status/maven-compiler-plugin/testCompile:
+total 0
+drwxr-xr-x. 2 myid 64 Aug  5 18:19 default-testCompile
+
+Project4/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile:
+total 8
+-rw-r--r--. 1 myid 47 Aug  5 18:19 createdFiles.lst
+-rw-r--r--. 1 myid 96 Aug  5 18:19 inputFiles.lst
+
+Project4/target/surefire-reports:
+total 12
+-rw-r--r--. 1 myid  329 Aug  5 18:19 edu.uga.cs1302.list.SimpleLinkedListTest.txt
+-rw-r--r--. 1 myid 5993 Aug  5 18:19 TEST-edu.uga.cs1302.list.SimpleLinkedListTest.xml
+
+Project4/target/test-classes:
+total 0
+drwxr-xr-x. 3 myid 25 Aug  5 18:19 edu
+
+Project4/target/test-classes/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Aug  5 18:19 uga
+
+Project4/target/test-classes/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 26 Aug  5 18:19 cs1302
+
+Project4/target/test-classes/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 40 Aug  5 18:19 list
+
+Project4/target/test-classes/edu/uga/cs1302/list:
+total 4
+-rw-r--r--. 1 myid 2865 Aug  5 18:19 SimpleLinkedListTest.class
+/home/myid/sao91172/cs1302/Project4:/home/myid/csci-1302a

@@ -1,0 +1,440 @@
+Project4:
+total 8
+-rw-r--r--.  1 myid 3354 Jul 20 23:34 pom.xml
+-rw-r--r--.  1 myid  886 Jul 25 22:50 README.txt
+-rw-r--r--.  1 myid    0 Jul 25 22:52 rec12564
+drwxr-xr-x.  4 myid   42 Jul 20 22:43 src
+drwxr-xr-x. 10 myid  265 Jul 25 22:36 target
+
+Project4/src:
+total 0
+drwxr-xr-x. 3 myid 26 Jul 20 22:43 main
+drwxr-xr-x. 3 myid 18 Jul 20 22:43 test
+
+Project4/src/main:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 20 22:43 java
+
+Project4/src/main/java:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 20 22:43 edu
+
+Project4/src/main/java/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 20 22:43 uga
+
+Project4/src/main/java/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 26 Jul 20 22:43 cs1302
+
+Project4/src/main/java/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 90 Jul 25 22:36 list
+
+Project4/src/main/java/edu/uga/cs1302/list:
+total 24
+-rw-r--r--. 1 myid   182 Jul 20 22:43 App.java
+-rw-r--r--. 1 myid 12772 Jul 25 22:36 SimpleLinkedList.java
+-rw-r--r--. 1 myid  2786 Jul 22 19:50 SimpleList.java
+
+Project4/src/test:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 20 22:43 java
+
+Project4/src/test/java:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 20 22:43 edu
+
+Project4/src/test/java/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 20 22:43 uga
+
+Project4/src/test/java/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 26 Jul 20 22:43 cs1302
+
+Project4/src/test/java/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 39 Jul 23 18:07 list
+
+Project4/src/test/java/edu/uga/cs1302/list:
+total 8
+-rw-r--r--. 1 myid 4358 Jul 23 18:07 SimpleLinkedListTest.java
+
+Project4/target:
+total 8
+drwxr-xr-x. 3 myid   25 Jul 22 19:39 classes
+drwxr-xr-x. 3 myid   33 Jul 21 01:03 generated-sources
+drwxr-xr-x. 3 myid   38 Jul 22 19:34 generated-test-sources
+drwxr-xr-x. 2 myid   83 Jul 25 22:51 javadoc-bundle-options
+-rw-r--r--. 1 myid 2940 Jul 25 22:51 maven-javadoc-plugin-stale-data.txt
+drwxr-xr-x. 3 myid   43 Jul 21 01:03 maven-status
+drwxr-xr-x. 6 myid 4096 Jul 22 19:50 site
+drwxr-xr-x. 2 myid  218 Jul 23 14:45 surefire-reports
+drwxr-xr-x. 3 myid   25 Jul 22 21:15 test-classes
+
+Project4/target/classes:
+total 0
+drwxr-xr-x. 3 myid 25 Jul 22 19:34 edu
+
+Project4/target/classes/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 22 19:34 uga
+
+Project4/target/classes/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 26 Jul 22 19:34 cs1302
+
+Project4/target/classes/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 167 Jul 25 22:36 list
+
+Project4/target/classes/edu/uga/cs1302/list:
+total 24
+-rw-r--r--. 1 myid  553 Jul 25 22:36 App.class
+-rw-r--r--. 1 myid 5247 Jul 25 22:36 SimpleLinkedList.class
+-rw-r--r--. 1 myid 1000 Jul 25 22:36 SimpleLinkedList$Node.class
+-rw-r--r--. 1 myid 3422 Jul 25 22:36 SimpleLinkedList$SimpleLinkedListIterator.class
+-rw-r--r--. 1 myid  570 Jul 25 22:36 SimpleList.class
+
+Project4/target/generated-sources:
+total 0
+drwxr-xr-x. 2 myid 6 Jul 21 01:03 annotations
+
+Project4/target/generated-sources/annotations:
+total 0
+
+Project4/target/generated-test-sources:
+total 0
+drwxr-xr-x. 2 myid 10 Jul 22 19:34 test-annotations
+
+Project4/target/generated-test-sources/test-annotations:
+total 0
+
+Project4/target/javadoc-bundle-options:
+total 12
+-rw-r--r--. 1 myid  325 Jul 25 22:51 javadoc-options-javadoc-resources.xml
+-rw-r--r--. 1 myid 4583 Jul 25 22:51 package-list
+
+Project4/target/maven-status:
+total 0
+drwxr-xr-x. 4 myid 52 Jul 22 19:34 maven-compiler-plugin
+
+Project4/target/maven-status/maven-compiler-plugin:
+total 0
+drwxr-xr-x. 3 myid 37 Jul 21 01:03 compile
+drwxr-xr-x. 3 myid 33 Jul 22 19:34 testCompile
+
+Project4/target/maven-status/maven-compiler-plugin/compile:
+total 0
+drwxr-xr-x. 2 myid 64 Jul 21 01:03 default-compile
+
+Project4/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r--. 1 myid 226 Jul 25 22:36 createdFiles.lst
+-rw-r--r--. 1 myid 257 Jul 25 22:51 inputFiles.lst
+
+Project4/target/maven-status/maven-compiler-plugin/testCompile:
+total 0
+drwxr-xr-x. 2 myid 64 Jul 22 19:34 default-testCompile
+
+Project4/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile:
+total 8
+-rw-r--r--. 1 myid 47 Jul 23 18:08 createdFiles.lst
+-rw-r--r--. 1 myid 96 Jul 25 22:36 inputFiles.lst
+
+Project4/target/site:
+total 64
+drwxr-xr-x. 5 myid 4096 Jul 25 22:51 apidocs
+drwxr-xr-x. 2 myid  104 Jul 22 19:46 css
+-rw-r--r--. 1 myid 8950 Jul 25 22:51 dependencies.html
+-rw-r--r--. 1 myid 4568 Jul 25 22:51 dependency-info.html
+drwxr-xr-x. 3 myid  269 Jul 22 19:50 images
+-rw-r--r--. 1 myid 2901 Jul 25 22:51 index.html
+-rw-r--r--. 1 myid 5659 Jul 25 22:51 plugin-management.html
+-rw-r--r--. 1 myid 5135 Jul 25 22:51 plugins.html
+-rw-r--r--. 1 myid 4235 Jul 25 22:51 project-info.html
+-rw-r--r--. 1 myid 3045 Jul 25 22:51 project-reports.html
+-rw-r--r--. 1 myid 3976 Jul 25 22:51 summary.html
+drwxr-xr-x. 5 myid 4096 Jul 25 22:51 testapidocs
+
+Project4/target/site/apidocs:
+total 152
+-rw-r--r--. 1 myid  1425 Jul 25 22:51 allclasses.html
+-rw-r--r--. 1 myid  6356 Jul 25 22:51 allclasses-index.html
+-rw-r--r--. 1 myid  4924 Jul 25 22:51 allpackages-index.html
+-rw-r--r--. 1 myid  4497 Jul 25 22:51 constant-values.html
+-rw-r--r--. 1 myid  4412 Jul 25 22:51 deprecated-list.html
+drwxr-xr-x. 3 myid    25 Jul 22 19:46 edu
+-rw-r--r--. 1 myid    20 Jul 25 22:51 element-list
+-rw-r--r--. 1 myid 13954 Jul 25 22:51 index-all.html
+-rw-r--r--. 1 myid   828 Jul 25 22:51 index.html
+drwxr-xr-x. 6 myid  4096 Jul 22 19:46 jquery
+-rw-r--r--. 1 myid  1423 Jul 25 22:51 member-search-index.js
+-rw-r--r--. 1 myid   386 Jul 25 22:51 member-search-index.zip
+-rw-r--r--. 1 myid  5935 Jul 25 22:51 overview-tree.html
+-rw-r--r--. 1 myid   102 Jul 25 22:51 package-search-index.js
+-rw-r--r--. 1 myid   235 Jul 25 22:51 package-search-index.zip
+drwxr-xr-x. 2 myid    48 Jul 22 19:46 resources
+-rw-r--r--. 1 myid  5043 Jul 25 22:51 script.js
+-rw-r--r--. 1 myid 12302 Jul 25 22:51 search.js
+-rw-r--r--. 1 myid  5732 Jul 25 22:51 serialized-form.html
+-rw-r--r--. 1 myid 22271 Jul 25 22:51 stylesheet.css
+-rw-r--r--. 1 myid   203 Jul 25 22:51 type-search-index.js
+-rw-r--r--. 1 myid   257 Jul 25 22:51 type-search-index.zip
+
+Project4/target/site/apidocs/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 22 19:46 uga
+
+Project4/target/site/apidocs/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 26 Jul 22 19:46 cs1302
+
+Project4/target/site/apidocs/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 3 myid 200 Jul 22 19:46 list
+
+Project4/target/site/apidocs/edu/uga/cs1302/list:
+total 80
+-rw-r--r--. 1 myid 11502 Jul 25 22:51 App.html
+drwxr-xr-x. 2 myid    90 Jul 22 19:46 class-use
+-rw-r--r--. 1 myid  5970 Jul 25 22:51 package-summary.html
+-rw-r--r--. 1 myid  5983 Jul 25 22:51 package-tree.html
+-rw-r--r--. 1 myid  5417 Jul 25 22:51 package-use.html
+-rw-r--r--. 1 myid 27267 Jul 25 22:51 SimpleLinkedList.html
+-rw-r--r--. 1 myid 16044 Jul 25 22:51 SimpleList.html
+
+Project4/target/site/apidocs/edu/uga/cs1302/list/class-use:
+total 24
+-rw-r--r--. 1 myid 4894 Jul 25 22:51 App.html
+-rw-r--r--. 1 myid 4985 Jul 25 22:51 SimpleLinkedList.html
+-rw-r--r--. 1 myid 6132 Jul 25 22:51 SimpleList.html
+
+Project4/target/site/apidocs/jquery:
+total 440
+drwxr-xr-x. 3 myid     28 Jul 22 19:46 external
+drwxr-xr-x. 2 myid   4096 Jul 22 19:46 images
+-rw-r--r--. 1 myid 287630 Jul 25 22:51 jquery-3.5.1.js
+-rw-r--r--. 1 myid  20275 Jul 25 22:51 jquery-ui.css
+-rw-r--r--. 1 myid  71563 Jul 25 22:51 jquery-ui.js
+-rw-r--r--. 1 myid  17416 Jul 25 22:51 jquery-ui.min.css
+-rw-r--r--. 1 myid  32162 Jul 25 22:51 jquery-ui.min.js
+-rw-r--r--. 1 myid   2555 Jul 25 22:51 jquery-ui.structure.css
+-rw-r--r--. 1 myid   1787 Jul 25 22:51 jquery-ui.structure.min.css
+drwxr-xr-x. 3 myid     26 Jul 22 19:46 jszip
+drwxr-xr-x. 3 myid     26 Jul 22 19:46 jszip-utils
+
+Project4/target/site/apidocs/jquery/external:
+total 0
+drwxr-xr-x. 2 myid 31 Jul 22 19:46 jquery
+
+Project4/target/site/apidocs/jquery/external/jquery:
+total 276
+-rw-r--r--. 1 myid 280363 Jul 25 22:51 jquery.js
+
+Project4/target/site/apidocs/jquery/images:
+total 64
+-rw-r--r--. 1 myid  335 Jul 25 22:51 ui-bg_glass_55_fbf9ee_1x400.png
+-rw-r--r--. 1 myid  262 Jul 25 22:51 ui-bg_glass_65_dadada_1x400.png
+-rw-r--r--. 1 myid  262 Jul 25 22:51 ui-bg_glass_75_dadada_1x400.png
+-rw-r--r--. 1 myid  262 Jul 25 22:51 ui-bg_glass_75_e6e6e6_1x400.png
+-rw-r--r--. 1 myid  332 Jul 25 22:51 ui-bg_glass_95_fef1ec_1x400.png
+-rw-r--r--. 1 myid  280 Jul 25 22:51 ui-bg_highlight-soft_75_cccccc_1x100.png
+-rw-r--r--. 1 myid 6922 Jul 25 22:51 ui-icons_222222_256x240.png
+-rw-r--r--. 1 myid 4549 Jul 25 22:51 ui-icons_2e83ff_256x240.png
+-rw-r--r--. 1 myid 6992 Jul 25 22:51 ui-icons_454545_256x240.png
+-rw-r--r--. 1 myid 6999 Jul 25 22:51 ui-icons_888888_256x240.png
+-rw-r--r--. 1 myid 4549 Jul 25 22:51 ui-icons_cd0a0a_256x240.png
+
+Project4/target/site/apidocs/jquery/jszip:
+total 0
+drwxr-xr-x. 2 myid 54 Jul 22 19:46 dist
+
+Project4/target/site/apidocs/jquery/jszip/dist:
+total 456
+-rw-r--r--. 1 myid 366227 Jul 25 22:51 jszip.js
+-rw-r--r--. 1 myid  95827 Jul 25 22:51 jszip.min.js
+
+Project4/target/site/apidocs/jquery/jszip-utils:
+total 0
+drwxr-xr-x. 2 myid 128 Jul 22 19:46 dist
+
+Project4/target/site/apidocs/jquery/jszip-utils/dist:
+total 20
+-rw-r--r--. 1 myid 2444 Jul 25 22:51 jszip-utils-ie.js
+-rw-r--r--. 1 myid 1610 Jul 25 22:51 jszip-utils-ie.min.js
+-rw-r--r--. 1 myid 4483 Jul 25 22:51 jszip-utils.js
+-rw-r--r--. 1 myid 1777 Jul 25 22:51 jszip-utils.min.js
+
+Project4/target/site/apidocs/resources:
+total 8
+-rw-r--r--. 1 myid 499 Jul 25 22:51 glass.png
+-rw-r--r--. 1 myid 394 Jul 25 22:51 x.png
+
+Project4/target/site/css:
+total 16
+-rw-r--r--. 1 myid 3129 Jul 22 19:46 maven-base.css
+-rw-r--r--. 1 myid 3678 Jul 22 19:46 maven-theme.css
+-rw-r--r--. 1 myid 1024 Jul 22 19:46 print.css
+-rw-r--r--. 1 myid   53 Jul 22 19:46 site.css
+
+Project4/target/site/images:
+total 36
+-rw-r--r--. 1 myid  279 Jul 25 22:51 close.gif
+-rw-r--r--. 1 myid   53 Jul 22 19:46 collapsed.gif
+-rw-r--r--. 1 myid   52 Jul 22 19:46 expanded.gif
+-rw-r--r--. 1 myid  230 Jul 22 19:46 external.png
+-rw-r--r--. 1 myid 1010 Jul 22 19:46 icon_error_sml.gif
+-rw-r--r--. 1 myid  606 Jul 22 19:46 icon_info_sml.gif
+-rw-r--r--. 1 myid  990 Jul 22 19:46 icon_success_sml.gif
+-rw-r--r--. 1 myid  576 Jul 22 19:46 icon_warning_sml.gif
+drwxr-xr-x. 2 myid   95 Jul 22 19:46 logos
+-rw-r--r--. 1 myid  220 Jul 22 19:46 newwindow.png
+
+Project4/target/site/images/logos:
+total 12
+-rw-r--r--. 1 myid 2294 Jul 22 19:46 build-by-maven-black.png
+-rw-r--r--. 1 myid 2260 Jul 22 19:46 build-by-maven-white.png
+-rw-r--r--. 1 myid 3330 Jul 22 19:46 maven-feather.png
+
+Project4/target/site/testapidocs:
+total 140
+-rw-r--r--. 1 myid  1199 Jul 25 22:51 allclasses.html
+-rw-r--r--. 1 myid  4955 Jul 25 22:51 allclasses-index.html
+-rw-r--r--. 1 myid  4934 Jul 25 22:51 allpackages-index.html
+-rw-r--r--. 1 myid  4507 Jul 25 22:51 constant-values.html
+-rw-r--r--. 1 myid  4422 Jul 25 22:51 deprecated-list.html
+drwxr-xr-x. 3 myid    25 Jul 22 19:50 edu
+-rw-r--r--. 1 myid    20 Jul 25 22:51 element-list
+-rw-r--r--. 1 myid  9053 Jul 25 22:51 index-all.html
+-rw-r--r--. 1 myid   833 Jul 25 22:51 index.html
+drwxr-xr-x. 6 myid  4096 Jul 22 19:50 jquery
+-rw-r--r--. 1 myid   891 Jul 25 22:51 member-search-index.js
+-rw-r--r--. 1 myid   323 Jul 25 22:51 member-search-index.zip
+-rw-r--r--. 1 myid  4979 Jul 25 22:51 overview-tree.html
+-rw-r--r--. 1 myid   102 Jul 25 22:51 package-search-index.js
+-rw-r--r--. 1 myid   235 Jul 25 22:51 package-search-index.zip
+drwxr-xr-x. 2 myid    48 Jul 22 19:50 resources
+-rw-r--r--. 1 myid  5043 Jul 25 22:51 script.js
+-rw-r--r--. 1 myid 12302 Jul 25 22:51 search.js
+-rw-r--r--. 1 myid 22271 Jul 25 22:51 stylesheet.css
+-rw-r--r--. 1 myid   124 Jul 25 22:51 type-search-index.js
+-rw-r--r--. 1 myid   253 Jul 25 22:51 type-search-index.zip
+
+Project4/target/site/testapidocs/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 22 19:50 uga
+
+Project4/target/site/testapidocs/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 26 Jul 22 19:50 cs1302
+
+Project4/target/site/testapidocs/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 3 myid 220 Jul 25 22:51 list
+
+Project4/target/site/testapidocs/edu/uga/cs1302/list:
+total 68
+-rw-r--r--. 1 myid 11319 Jul 22 20:26 AppTest.html
+drwxr-xr-x. 2 myid   110 Jul 25 22:51 class-use
+-rw-r--r--. 1 myid  5096 Jul 25 22:51 package-summary.html
+-rw-r--r--. 1 myid  5087 Jul 25 22:51 package-tree.html
+-rw-r--r--. 1 myid  4708 Jul 25 22:51 package-use.html
+-rw-r--r--. 1 myid 15342 Jul 22 20:26 SimpleLinkedListTester.html
+-rw-r--r--. 1 myid 15320 Jul 25 22:51 SimpleLinkedListTest.html
+
+Project4/target/site/testapidocs/edu/uga/cs1302/list/class-use:
+total 24
+-rw-r--r--. 1 myid 4932 Jul 22 20:26 AppTest.html
+-rw-r--r--. 1 myid 5037 Jul 22 20:26 SimpleLinkedListTester.html
+-rw-r--r--. 1 myid 5023 Jul 25 22:51 SimpleLinkedListTest.html
+
+Project4/target/site/testapidocs/jquery:
+total 440
+drwxr-xr-x. 3 myid     28 Jul 22 19:50 external
+drwxr-xr-x. 2 myid   4096 Jul 22 19:50 images
+-rw-r--r--. 1 myid 287630 Jul 25 22:51 jquery-3.5.1.js
+-rw-r--r--. 1 myid  20275 Jul 25 22:51 jquery-ui.css
+-rw-r--r--. 1 myid  71563 Jul 25 22:51 jquery-ui.js
+-rw-r--r--. 1 myid  17416 Jul 25 22:51 jquery-ui.min.css
+-rw-r--r--. 1 myid  32162 Jul 25 22:51 jquery-ui.min.js
+-rw-r--r--. 1 myid   2555 Jul 25 22:51 jquery-ui.structure.css
+-rw-r--r--. 1 myid   1787 Jul 25 22:51 jquery-ui.structure.min.css
+drwxr-xr-x. 3 myid     18 Jul 22 19:50 jszip
+drwxr-xr-x. 3 myid     26 Jul 22 19:50 jszip-utils
+
+Project4/target/site/testapidocs/jquery/external:
+total 0
+drwxr-xr-x. 2 myid 31 Jul 22 19:50 jquery
+
+Project4/target/site/testapidocs/jquery/external/jquery:
+total 276
+-rw-r--r--. 1 myid 280363 Jul 25 22:51 jquery.js
+
+Project4/target/site/testapidocs/jquery/images:
+total 64
+-rw-r--r--. 1 myid  335 Jul 25 22:51 ui-bg_glass_55_fbf9ee_1x400.png
+-rw-r--r--. 1 myid  262 Jul 25 22:51 ui-bg_glass_65_dadada_1x400.png
+-rw-r--r--. 1 myid  262 Jul 25 22:51 ui-bg_glass_75_dadada_1x400.png
+-rw-r--r--. 1 myid  262 Jul 25 22:51 ui-bg_glass_75_e6e6e6_1x400.png
+-rw-r--r--. 1 myid  332 Jul 25 22:51 ui-bg_glass_95_fef1ec_1x400.png
+-rw-r--r--. 1 myid  280 Jul 25 22:51 ui-bg_highlight-soft_75_cccccc_1x100.png
+-rw-r--r--. 1 myid 6922 Jul 25 22:51 ui-icons_222222_256x240.png
+-rw-r--r--. 1 myid 4549 Jul 25 22:51 ui-icons_2e83ff_256x240.png
+-rw-r--r--. 1 myid 6992 Jul 25 22:51 ui-icons_454545_256x240.png
+-rw-r--r--. 1 myid 6999 Jul 25 22:51 ui-icons_888888_256x240.png
+-rw-r--r--. 1 myid 4549 Jul 25 22:51 ui-icons_cd0a0a_256x240.png
+
+Project4/target/site/testapidocs/jquery/jszip:
+total 0
+drwxr-xr-x. 2 myid 42 Jul 22 19:50 dist
+
+Project4/target/site/testapidocs/jquery/jszip/dist:
+total 456
+-rw-r--r--. 1 myid 366227 Jul 25 22:51 jszip.js
+-rw-r--r--. 1 myid  95827 Jul 25 22:51 jszip.min.js
+
+Project4/target/site/testapidocs/jquery/jszip-utils:
+total 0
+drwxr-xr-x. 2 myid 128 Jul 22 19:50 dist
+
+Project4/target/site/testapidocs/jquery/jszip-utils/dist:
+total 20
+-rw-r--r--. 1 myid 2444 Jul 25 22:51 jszip-utils-ie.js
+-rw-r--r--. 1 myid 1610 Jul 25 22:51 jszip-utils-ie.min.js
+-rw-r--r--. 1 myid 4483 Jul 25 22:51 jszip-utils.js
+-rw-r--r--. 1 myid 1777 Jul 25 22:51 jszip-utils.min.js
+
+Project4/target/site/testapidocs/resources:
+total 8
+-rw-r--r--. 1 myid 499 Jul 25 22:51 glass.png
+-rw-r--r--. 1 myid 394 Jul 25 22:51 x.png
+
+Project4/target/surefire-reports:
+total 24
+-rw-r--r--. 1 myid  303 Jul 22 20:41 edu.uga.cs1302.list.AppTest.txt
+-rw-r--r--. 1 myid  328 Jul 25 22:36 edu.uga.cs1302.list.SimpleLinkedListTest.txt
+-rw-r--r--. 1 myid 4831 Jul 22 20:41 TEST-edu.uga.cs1302.list.AppTest.xml
+-rw-r--r--. 1 myid 5551 Jul 25 22:36 TEST-edu.uga.cs1302.list.SimpleLinkedListTest.xml
+
+Project4/target/test-classes:
+total 0
+drwxr-xr-x. 3 myid 17 Jul 22 19:35 edu
+
+Project4/target/test-classes/edu:
+total 0
+drwxr-xr-x. 3 myid 28 Jul 22 19:35 uga
+
+Project4/target/test-classes/edu/uga:
+total 0
+drwxr-xr-x. 3 myid 26 Jul 22 19:35 cs1302
+
+Project4/target/test-classes/edu/uga/cs1302:
+total 0
+drwxr-xr-x. 2 myid 48 Jul 23 18:08 list
+
+Project4/target/test-classes/edu/uga/cs1302/list:
+total 4
+-rw-r--r--. 1 myid 2865 Jul 23 18:08 SimpleLinkedListTest.class
+/home/myid/sao91172/cs1302/Project4:/home/myid/csci-1302a
